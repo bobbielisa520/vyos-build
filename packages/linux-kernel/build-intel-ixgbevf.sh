@@ -14,7 +14,8 @@ fi
 
 . ${KERNEL_VAR_FILE}
 
-url="https://sourceforge.net/projects/e1000/files/ixgbevf%20stable/4.18.9/ixgbevf-4.18.9.tar.gz"
+# url="https://sourceforge.net/projects/e1000/files/ixgbevf%20stable/4.18.9/ixgbevf-4.18.9.tar.gz"
+url="https://github.com/intel/ethernet-linux-ixgbevf/releases/download/v4.20.5/ixgbevf-4.20.5.tar.gz"
 
 cd ${CWD}
 
